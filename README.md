@@ -14,5 +14,5 @@
 * Does the user want to include numbers?
 
 ### Once user selects parameters, the selected parameters are included in the generated password.
-
+#### Here is the link to view the page: https://sean-93.github.io/random-password-generator/
 
